@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 📫 How to reach me: ... t.me/rafaelstu
+### 📫 How to reach me:
+<a href='t.me/rafaelstu'>Telegram</a>
 <!--
 **rafaelstu/rafaelstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
