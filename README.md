@@ -24,7 +24,7 @@ Desenvolvedor Full Stack com:
 ### 📚 Bibliotecas com as quais tive contato:
 
 - **Front-end:**
-  - **Gráficos e Visualização de Dados:** `AG Grid`, `TanStack Table`, `AG Charts`, `ApexCharts`, `ECharts`
+  - **Gráficos e Visualização de Dados:** `AG Grid`, `TanStack Table`, `ApexCharts`, `ECharts`, `AG Charts`
   - **Gerenciamento de Estado e Dados:** `TanStack (React) Query (v3 e v5)`, `zustand`, `react-hook-form`
   - **UI Components:** `Styled-Components`, `Shadcn/UI`
   - **Outras:** `React-PDF-renderer`, `pdf.js`
