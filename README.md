@@ -10,16 +10,16 @@ Desenvolvedor Full Stack com:
 - Especialidade na criação de aplicativos para celular com **React Native**;
 - Experiência em bancos de dados relacionais e na linguagem **SQL**.
 - Experiência no desenvolvimento em **Python** com o framework **Django**;
-- Experiência na criação de aplicações web com o framework **Angular**;
+- Breve experiência na criação de aplicações web com o framework **Angular**;
 
 ## 🛠️ Habilidades
 
 ### Tecnologias e ferramentas com as quais tive contato:
 
-- **Front-End:** `React`, `JavaScript (ES6+)`, `Angular`, `HTML5`, `CSS3`
+- **Front-End:** `React`, `TypeScript`, `JavaScript (ES6+)`, `Angular`, `HTML5`, `CSS3`
 - **Back-End:** `Python`, `Django`, `C`, `Kotlin`, `Java`
 - **Banco de Dados:** `MySQL`, `SQL`, `PostgreSQL`
-- **Ferramentas e Outros:** `Git`, `GitLab`, `GitHub`
+- **Ferramentas e Outros:** `Git`, `GitLab`, `GitHub`, `nginx`
 
 ### 📚 Bibliotecas com as quais tive contato:
 
