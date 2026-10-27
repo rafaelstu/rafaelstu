@@ -1,6 +1,6 @@
 ### 🚀 Desenvolvedor Pleno | Especialista no Ecossistema React & TypeScript
 
-Sou um Desenvolvedor Frontend com sólida bagagem na criação de interfaces escaláveis, performáticas e orientadas a experiência de usuário (UX/UI). Atuo ativamente como **referência técnica**, auxiliando equipes na definição de arquitetura, padrões de código e modernização de stacks.
+Tenho sólida bagagem na criação de interfaces escaláveis, performáticas e orientadas a experiência de usuário (UX/UI). Atuo ativamente como **referência técnica**, auxiliando equipes na definição de arquitetura, padrões de código e modernização de stacks.
 
 Possuo experiência de ponta a ponta na web: desde a concepção de **Microfrontends (Module Federation)** e migração de sistemas legados até o desenvolvimento mobile com **React Native** e integração de APIs RESTful.
 
